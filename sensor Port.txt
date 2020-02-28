@@ -1,0 +1,21 @@
+OLED 
+SLC - D1
+SDA - D2
+
+DHT11
+out -D3
+
+Soil Moisture Sensor Module
+out - A0
+
+LDR Photoresistor Sensor
+out - D4
+
+relay 
+relay1  D7
+relay2  D8
+
+LED traffic
+R - D6
+Y - D5
+G - D0
